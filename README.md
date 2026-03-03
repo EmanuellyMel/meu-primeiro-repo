@@ -1,0 +1,2 @@
+# meu-primeiro-repo
+Meu primeiro repositório em aula de Pesquisa e Inovação
